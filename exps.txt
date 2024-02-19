@@ -1,0 +1,6 @@
+Experiment Results
+Complexity 1 | Single | 376,90 | 7,15 | Multi | 284,50 | 6,96 | Islands | 752,50 | 7,98
+Complexity 2 | Single | 575,20 | 7,17 | Multi | 261,00 | 7,13 | Islands | 700,70 | 7,96
+Complexity 3 | Single | 762,50 | 7,16 | Multi | 269,70 | 7,00 | Islands | 631,20 | 7,93
+Complexity 4 | Single | 954,70 | 6,94 | Multi | 293,90 | 7,15 | Islands | 586,80 | 8,04
+Complexity 5 | Single | 1148,10 | 7,25 | Multi | 339,50 | 6,87 | Islands | 546,30 | 7,96
